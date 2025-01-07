@@ -1,0 +1,282 @@
+---
+title: "During and Post Soviet Occupation and its Impact of Suicide Rates in Lithuania and Latvia"
+author: "Merveille Maroya-Powell"
+format: pdf
+toc: true
+toc-depth: 2
+editor: visual
+---
+
+## Introduction
+
+This data analysis research paper seeks to investigate the influence of the Soviet regime on suicide rates among teenagers and adults in the Baltic nations, specifically Lithuania and Latvia. To better gauge the impact of the Soviet regime on these nations, the research analysis focuses on the following five year ranges, 1980 to 1985, while these countries are still under Soviet occupation, 1985 - 1990, which is right before their liberation from Soviet control and a period of increase democratization. 1990 - 1995, right after the liberation, and then looking at the suicide rates from 2010 - 2015, thirty years after their liberation from the Soviet regime. The analysis will not filter out years excluded in the stated range and there might be trends worth noting through the decades.
+
+Suicide is a global public health issue that affects many families across the world. According to the World Health Organization (WHO), more than 720,000 people die due to suicide every year. Additionally, suicide is the third leading cause of death among 15–29 years old. Although it is a personal act, it has great implications for the society and community at large. By deciphering the factors that contributed to this tragedy, one can begin to do the much needed preventative work to save many lives.
+
+## Research Question
+
+The research question is as follows: How did the sociopolitical influence of the Soviet regime affect suicide rates among teens and adults in Lithuania and Latvia from 1980 to 2015?
+
+This research question is important and interesting to explore because the Soviet regime has impacted many countries due to its occupation in the eastern and central European countries. Although many of these countries have since gained independence, the effects may remain. As stated earlier, based on Émile Durkheim's study on suicide, it is imperative to look at the social factors that may influence suicide. This issue is most prevalent to study today due to Russia’s influence across many nations. Most notably, on February 24, 2022, Russian forces invaded Ukraine and have been at war (Brown, 2024). As an employee at a nonprofit in Washington, DC focusing on the reconstruction of Ukraine through Digital Governance and empowering the locals, the urgency of this topic is palpable. Having co-workers at risk of bombing daily, among other chaotic societal events, pushes to pose the question of the impact Russia’s invasion may have on the people groups even long after the war is over. Although the Soviet Union regime differs from current day Russia, some of the tactics and devastating effects on impacted nations remain similar (Schmemann, 2023).
+
+Obtaining better insight into the effect of the Soviet Union on the Baltic countries can provide a better understanding of the effects that may befall Ukrainians who are currently at war with Russia. Although there might be gaps within the study, the hope is to spark enough interest for a more in depth study of Ukraine in a chaotic social phase and how best to medicate and prevent a drastic increase in suicide rates. Additionally, with the recent conscription mandate, further consequences to mental health and suicide, especially among men, may be observed (Hockenos, 2024).
+
+## Hypothesis
+
+The hypothesis states the suicide rate among teens and adults in Lithuania and Latvia from 1980 to 1995 is higher than that from 2010 to 2015. Specifically, these numbers may be higher among those males compared to females. 
+
+Based on previous literature on the topic, for example in the book Suicidology and Suicide Prevention, the authors Danuta Wasserman and Camilla Wasserman, one of the chapters looked at Suicide during transition in the former Soviet Republics. Their findings showed that “During the period of perestroika (1985–1990), when promising social changes were rapid, a significant decrease of suicide mortality was observed for both genders in all fifteen republics of the USSR.” (Värnik and Wasserman, 2019). Some of this decline was attributed to the ban on alcohol from 1985 to 1989. However, immediately after the fall of the Soviet Union, except in the predominantly Muslim Central Asian and Caucasian nations, which have historically had low suicide rates, the number of suicides in post-Soviet nations rose between 1990-1994 following the fall of the Soviet Union. This was mainly due to the rapid change and adaptation required by previously occupied countries to assimilate to a new normal (Värnik and Wasserman, 2019). In a different study presented at a conference, the conference summary writers Pray et al. (2013) explained that one of the presenters, Ramune Kalediene stated that in Lithuania 1994 had the highest recorded suicide rate for men (87.7 per 100,000), while 1995 had the highest for women (15 per 100,000).
+
+The years 2010 through 2015 are therefore essential to observe the change in suicide rates during thirty years post soviet occupation. As referenced in Rozanov's study, there was a decrease in suicide among Baltic nations especially after 2001.
+
+## Literature Review
+
+In a study conducted by Värnik and Wasserman in 1992, titled “Suicides in the Former Soviet Republics”, their findings showed that suicide rates were lower among soviet occupied regions that possessed long-standing traditional lifestyles, strong religious faith, and multi-generational families. While in soviet occupied regions with socio-political antagonisms the suicide rate had increased. Regardless, there was a “significant decline (34.5%), from (29.6%) to 19.4 per 100,000 inhabitants, occurred in 1984–1988 throughout the Soviet Union, in the hopeful period of social democratization and stiff restrictions on the sale of alcohol” (Värnik and Wasserman,1992). This is in alignment with Durkheim’s earlier study of the influence of societal factors on suicide rates. As the soviet occupied nations began to see more democratization, the suicide rates decreased.
+
+In August 1989, there was also The Baltic Way at times called the Baltic Chain which was a cross-border walk in protest among Estonians, Latvians, and Lithuanians in protest of Society occupation. This became a turning point towards independence for the three Baltic countries (Inga Samoškaitė, 2024). Thus, the suicide rate in the region should decrease going into the early 1990s in theory. Part of that theory is already supported by various studies. One of which was, a study conducted by Rozanov titled Suicides in the Countries of the Former Soviet Union. They found that the primarily industrialized nations, such as Lithuania and Latvia, had a sharp increase in suicides which was associated with be related serious economic problems and "shock therapy". However, from 1994 to 1996 and particularly after 2001, these nations have seen a slow decline in suicide rates, which is associated with resolving their primary economic challenges.
+
+Émile Durkheim a well renowned sociologist, who is at times considered one of the fathers of sociology conducted a study on suicide in France in the late 1800s that provides some interesting insight into suicide. Durkheim’s study demonstrated that there are sociological factors that increase the risk of suicide among people groups. According to Durkheim, there are four types of suicide, one of which is anomic suicide (Kołodziej-Sarzyńska, et.al 2019). This is defined as a sense of oppression, chaos, and disorder within society which creates a level of purposelessness leading some to suicide (Kar and Singh, 2023). Many have studied Durkheim's research from 1897, some have disagreed with aspects of it, and others have utilized it as a foundation to build on. Regardless, the results still stand to this day, suicide, although a personal act, has societal implications that may influence the demise of the individual. There are greater risk factors that may lead to suicide based on the state one one’s society and the ability to integrate within one’s community.
+
+## Descriptive Statistics
+
+This dataset was originally created by the World Health Organization (WHO) Mortality Database. The version of the dataset utilized in this data analytics research project was obtained through Kaggle. The version of the dataset used in this research analysis project can be found [here](https://www.kaggle.com/datasets/szamil/who-suicide-statistics/data). According to WHO the quality and availability of data on suicide and self-harm is poor, this is due to the stigma around suicide. Additionally, there are some illegality issues surrounding suicide in some countries making people less willing to report it (World Health Organization, 2024). 
+
+The data on suicide estimate from WHO is originally collected by by Member States from their civil registration and vital statistics systems. It is important to note however that of the 180 plus contributors, only eighty seven were considered to have provided good-quality data in 2019 for example, according to WHO. 
+
+The dataset has 43,776 observations and 6 variables, and of those, the interest is on Lithuania and Latvia from 1980 - 1995 and 2010-2015. Thus, year, sex, age, suicide number and country are the primary variables of interest to the research question. After filtering the dataset, 504 observations and 6 variables are of special interest to conduct the analysis. \
+
+By utilizing the tools demonstrated below, the data will be further summarized for detailed insights.\
+
+```{r}
+#Including all packages that will be utlize for the analysis.
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(dagitty)
+library(ggdag)
+```
+
+You can add options to executable code like this
+
+```{r}
+#Uploading the necessary dataset for the analysis 
+who_suicide_statistics <- read_csv("who_suicide_statistics.csv", show_col_types = TRUE)
+
+#Take a look at the datatset to make sure it was imported correctly.
+#head(who_suicide_statistics)
+
+
+#Filtering the dataset to reflect only the necessary variables and obersavtions. 
+SuicideData <- who_suicide_statistics |> 
+  filter(country %in% c("Lithuania", "Latvia") & 
+         (year >= 1980))
+
+#View dataset to verify that it filtered correctly.
+View(SuicideData)
+
+#Looking at the summary of the dataset and obtaining basic statistical information. 
+
+glimpse(SuicideData)
+summary(SuicideData)
+```
+
+## Model Fitting / Hypothesis Testing
+
+#### Variables
+
+The main variables that will be focused on for this analysis based on the research question, existing literature and hypothesis are as follows:
+
+[Dependent Variables]{.underline}: suicide number
+
+[Independent variables]{.underline}: country, year, sex
+
+Additionally, age might be an interesting control variable worth exploring, especially in relation to the sex of the suicide victim. Age may impact the number of suicide but does not necessary affect sex drastically.
+
+#### Directed Acyclic Graph (DAG)
+
+To formalize the assumptions about the causal relations in the variables, a DAG will be draw for better insight and an visual with the following variables as part of the hypothesis testing. For the dependent variables, suicide number and for the independent variables, country, year, sex, age will be included in the DAG below . The country impacts the number of suicide committed, this is further affected by the year and the current socio-cultural and sociopolitical factors taking place, example, soviet influence. Additionally, age and sex have a mediating relationship that impacts the number of suicide committed.
+
+```{r}
+#Ensuring the DAG design doesn't change
+set.seed(1111111)
+
+#Building a DAG to observe the relationship between variables.
+
+SuicideD_DAG <- dagitty('dag
+{
+Country -> "suicides_no (Number of suicide)"
+Sex -> "suicides_no (Number of suicide)"
+"Age (the age of the victim)"-> "suicides_no (Number of suicide)"
+Year -> "suicides_no (Number of suicide)"
+}
+                        ')|> graphLayout() |> plot()
+
+```
+
+As shown in the DAG above, various factors affect suicide numbers, the rest of this paper will analyze how those variables impact the suicide numbers and which variables have the strongest causal relationship.
+
+#### Hypothesis Testing
+
+Fitting a multiple regression model to interpret the coefficient of the explanatory variable and explain whether it supports the hypothesis stated above. The hypothesis states the suicide rate among teens and adults in Lithuania and Latvia from 1980 to 1995 is higher than that from 2010 to 2015. Specifically, these numbers may be higher among those males compared to females.
+
+```{r}
+#Fit the multiple regression model for hypothesis testing 
+LMSuicide <- lm(suicides_no ~ country + year + sex + age, data = SuicideData)
+
+#calling for the output
+summary(LMSuicide)
+
+#Looking at the 0.95 confidence intervals 
+confint(LMSuicide)
+
+
+```
+
+Based on the Call output, the following can be said about the coefficients. Lithuania had a 47.3624, meaning their suicide numbers were 47.3624 higher than that of Latvia, with a confidence interval of 95% CI \[38.44, 56.29\]. A p-value of less than 2.2e-16 further shows the statistically significant relationship between the countries and the suicide rates. In short, the country affects the number of suicide rates, with Lithuania having higher numbers of suicides than its counterpart Latvia.
+
+As for the year the suicide takes place regardless of country, the coefficients show -0.8303 and a confidence interval of 95% CI \[-1.27, -0.40\]. This is in support of suicide declining over the years as the Soviet forces were dismantled in both Lithuania and Latvia. With a p-value of 0.000192, there is a statistically significant of suicides declining steadily from the 1980s compared to the years to follow and through the 2010s.
+
+The victim's sex has the most substantial significance thus far; there's a coefficient of 97.1310 associated with males and a confidence interval of 95% CI \[88.25, 106.01\]. This states that males had significantly more suicides than females in both Lithuania and Latvia. With a p-value of less than 2.2e-16, the statistical significance is clear and in alignment with males having a higher suicide rate than females.
+
+The age of the victim plays a significance in the suicide rates. With the age reference group as 15-24 years old, all the age groups have double digits except for the 75+ years old. That age group had a p-value of 0.500581, and a confidence interval of 95% CI \[-20.66, 10.10\] shows there is no statistical significance between this age group and the number of suicides. However, for all the other age groups, the p-value is below 0.05, showing there is statistical significance among the age and the number of suicides. Additionally the confidence interval for each group slightly differs and includes the following: age 5-14 years 95% CI \[-55.15, -24.38\]; age 25-34 years 95% CI \[16.23, 47.006\] age 35-54 years 95% CI \[143.92, 174.69\]; age 55-74 years 95% CI \[65.53, 96.30\].
+
+The multiple regression model provides enough evidence to reject the null hypothesis with all the explanatory variables except with the age group of 75+ years old. As stated above, the model shows statistical significance and aligns with the hypothesis that suicide rates among teens and adults in Lithuania and Latvia from 1980 to 1995 are higher than those from 2010 to 2015, especially among males compared to females. As shown, there has been a steady decline with suicide towards the end of the Soviet Union occupation in these two countries and in the years to follow. 
+
+#### Visualization
+
+Additionally, visualizations are included in this section to go along with the above statements supporting the hypothesis. This first graph, although hard to read, serves as a summary of all the variables mentioned throughout the analysis. The legend provides some guidance as to what each shape and color represents. Next, the variables will be broken down into digestible visual representations.
+
+```{r}
+#creating a plot to display all variables of interest
+ggplot(SuicideData, aes(x = year, y = suicides_no, color = country, shape = sex)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", color = "blue", se = TRUE) +
+  labs(
+    title = "Overview: Effect of Year on Suicide Rates in Lithuania and Lativa, by Sex",
+    x = "Year of Suicide",
+    y = "Number of Suicides",
+    color = "Country",
+    shape = "Sex"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "bottom")
+
+
+
+
+```
+
+The graph below looks purely at the correlation between the year and suicide numbers across both Lithuania and Latvia. As hypothesized, the 1980s through the early 2000s had more suicides than the 2010s. Sadly, the rates of suicide in Lithuania were significantly higher than those in Latvia. Lithuania seems to have a few strong outliers over the years. This observation could be worth doing additional research to analyze further. 
+
+```{r}
+#graph to show the relationship between the year and suicide numbers in Lithuania and Latvia
+ggplot(SuicideData, aes(x = year, y = suicides_no, color = country))+ 
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", color = "purple", se = TRUE)+
+  labs(title = "Effect of Year on Suicide Rates", x = "Year of Suicide", y = "Suicide Number")
+
+```
+
+The graph below shows the relationship between the year and suicide numbers by age group. As shown, most age groups see a steady decline into the 2010s. The age group of 5-14 years old has lower suicide rates over time, with numbers below a hundred suicides in any given year. The two age groups that show the most significant decline over time are 25-34, 35-54, and 55-74 years old. Additionally, those were the age group that had the most overall number of suicides, with 35 - 54 years old taking the lead.
+
+Interestingly, there seems to be an uptick in the number of suicides among those 55 and above (55-74 and 75+ years old). The significant difference might be an opportunity for further research on why the elderly are committing suicide at a higher rate after the prior decline following the end of the Soviet regime. Overall, the graph below aligns with the hypothesis, and the significance is seen when age grouping is looked at in relation to sex. 
+
+```{r}
+#graph to show the relationship between the year and suicide numbers by age grouping
+ggplot(SuicideData, aes(x = year, y = suicides_no, color = sex)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", color = "orange", se = TRUE) +
+  facet_wrap(~ age) +
+  labs(title = "Effect of Year on Suicide Rates by Age Grouping",
+       x = "Year of Suicide",
+       y = "Number of Suicides")
+```
+
+The below graph is another display of the relationship between the year and suicide numbers by age group in one graph.
+
+```{r}
+#graph to show the relationship between the year and suicide numbers by age grouping
+ggplot(SuicideData, aes(x = year, y = suicides_no, color = age)) +
+  geom_smooth(method = "lm", se = TRUE, aes(linetype = age)) +
+  labs(title = "Effect of Year on Suicide Rates by Age Grouping",
+       x = "Year of Suicide",
+       y = "Number of Suicides")
+
+
+```
+
+The graph below shows the relationship between the year and suicide numbers by sex. As stated in the hypothesis, suicide rates among males are significantly higher than that among females. The highest number of suicides among males was around the 1990s to the early 2000s, at which point there was a steady decline.
+
+```{r}
+#graph to show the relationship between the year and suicide numbers by sex
+
+ggplot(SuicideData, aes(x = year, y = suicides_no, color = sex))+ 
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", color = "black", se = TRUE)+
+  labs(title = "Effect of Year on Suicide Rates by Sex", x = "Year of Suicide", y = "Suicide Number")
+
+```
+
+## Diagnostics and Model Evaluation
+
+In this section, a few produce diagnostic plots will be created for the final model using the plot() function on the regression object. Only the four plots that get produced by default will be focused on, with interpretation for each plot. In addition, the R-squared will be reported and interpreted.
+
+```{r}
+#creating diagnostic plots for the final model evaluation
+plot(LMSuicide)
+
+```
+
+#### Residuals vs Fitted
+
+Although the residuals start out with some uniformity, there's quickly a variety in the pattern; this is more prevalent at the higher fitted values. Based on the curved shape at the end of this plot, it show heteroscedasticity. This model may not best represent the data and support the hypothesis; a better model may be preferable in the future to show constant various residuals. 
+
+#### Q-Q Residuals
+
+For the most part the residuals follow the straight line but there is some slight variation towards the higher end of the residuals. This is likely due to the outliers among the number of suicide especially among males in Lithuania among the 35 - 54 years old. Thus, this is not a perfectly normally distributed Q-Q residual.
+
+#### Scale-Location
+
+The residuals are spread around the red horizontal line. However, there's a slight variation towards the plot's end (right side). Once again, there may be a coloration here between the outlier data among male suicides and the few residuals that are away from the red horizontal line. There is a non constant variance with the increase in fitted values.
+
+#### Residuals vs Leverage
+
+The residuals in this plot are well clustered, demonstrating that the model fits the provided data well. However, once again, there are some outlier residuals that may indicate other factors are at play with the model's prediction. Although this model performs well based on most of the observations presented, removing the outliers might be helpful if the goal is homoscedasticity. 
+
+#### R-squared
+
+The R-squared from the multiple regression model is 0.6312, while the adjusted R-squared is 0.6277. The R-squared suggests there is a strong fit between to model created and the data provided. This means the predictor mentioned are aligned with capturing the variation in suicide numbers in Lithuania and Latvia across years, sex, and age groups. Although, there is always room for improvement and further analysis.
+
+## Discussion
+
+The findings from this analysis reinforce the hypothesis that there was a decrease in suicide numbers after the Soviet regime in Lithuania and Latvia. This suggests that the Soviet occupation and the years to follow shortly affected the well-being of the people. A noticeable number of suicides occurred. Additionally, males were significantly more affected by the Soviet occupation and the aftermath, as shown in the number of suicides committed. This observation is further emphasized by the number of suicides in Lithuania versus Latvia. 
+
+#### Limitations
+
+There are additional factors that may be useful in future analysis, such as why the suicide rates vary drastically between Lithuania and Latvia. There might also be other factors affecting the suicide rate that may not be apparent without additional social context. Lastly, as stated in the descriptive statistics section, suicide numbers are tough to measure and rely on, especially due to the stigma associated with it. These numbers may not have been accurately recorded, which could have affected the findings. 
+
+#### Conclusion
+
+This research analysis achieved what it set out to do, which was to examine the impact of the Soviet regime on suicide rates in two Baltic states (Lithuania and Latvia) from 1980 - 2015. The findings support the hypothesis that between 1980 and 1995, the rate of teen and adult suicide in Lithuania and Latvia was greater than in 2010-2015, especially among males. The findings can be utilized to provide resources for communities dealing with the aftermath of the Soviet regime and those currently in conflict with Russia, such as Ukraine. Beyond providing individuals with resources, there are also sociocultural and socioeconomic factors that contributed to the suicide rates from 1980 - 2015. Those factors can serve as the foundation for additional studies and implementations of policies that may positively impact the communities in addition to the sociocultural and socioeconomic well-being of the nations affected. 
+
+## Bibliography
+
+Brown, D. (2024, August 22). Ukraine invasion: Russia’s attack in maps. *BBC News*. https://www.bbc.com/news/world-europe-60506682
+
+jcookson. (2024, August 22). *Thirty-five years later, the Baltic Way still inspires the fight for freedom*. Atlantic Council. https://www.atlanticcouncil.org/blogs/new-atlanticist/thirty-five-years-later-the-baltic-way-still-inspires-the-fight-for-freedom/
+
+Kar, S. K., & Singh, S. (2023). Anomic suicides on rise during recently emerging crises: revisiting Durkheim’s model. *CNS Spectrums*, *28*(6), 1–2. https://doi.org/10.1017/S1092852923002341
+
+Kołodziej-Sarzyńska, M., Majewska, M., Juchnowicz, D., & Karakuła-Juchnowicz, H. (2019). Risk factors of suicide with reference to the theory of social integration by Emile Durkheim. *Psychiatria Polska*, *53*(4), 865–881. https://doi.org/10.12740/pp/92217
+
+Pray, L., Cohen, C., Mäkinen, H., Värnik, A., & Landis Mackellar, F. (2013). *I I A S A Suicide in Eastern Europe, the CIS, and the Baltic Countries: Social and Public Health Determinants A Foundation for Designing Interventions Summary of a Conference*. https://suicidology.ee/wp-content/uploads/2016/10/Suicides-in-Eastern-Europe-RR-13-001-web.pdf
+
+Rozanov, V. A. (2007). Suicides in the countries of the former Soviet Union. *European Psychiatry*, *22*, S35–S36. https://doi.org/10.1016/j.eurpsy.2007.01.141
+
+Schmemann, S. (2023, May 8). Opinion \| Things in Russia Aren’t as Bad as the Bad Old Soviet Days. “They’re Worse.” *The New York Times*. https://www.nytimes.com/2023/05/08/opinion/international-world/putin-russia.html
+
+Szamil. (2016). *WHO Suicide Statistics*. Kaggle.com. https://www.kaggle.com/datasets/szamil/who-suicide-statistics/data
+
+Värnik, A., & Wasserman, D. (1992). Suicides in the former Soviet republics. *Acta Psychiatrica Scandinavica*, *86*(1), 76–78. https://doi.org/10.1111/j.1600-0447.1992.tb03230.x
+
+World Health Organization. (2024, August 29). *Suicide*. World Health Organization; World Health Organization. https://www.who.int/news-room/fact-sheets/detail/suicide
